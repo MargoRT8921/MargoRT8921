@@ -1,5 +1,5 @@
-![](![image](https://user-images.githubusercontent.com/91619502/190733523-abd8fed3-802e-4a00-98b4-8fd241df42eb.png))
-# Hi there 👋
+# Per aspera ad astra
+![](https://i.pinimg.com/originals/7e/ff/c0/7effc0548b79c6df511a50bd614fcd33.jpg)
 
 <!--
 **MargoRT8921/MargoRT8921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
