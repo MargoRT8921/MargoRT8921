@@ -1,4 +1,4 @@
-![](https://cdn.dribbble.com/users/14038/screenshots/6361899/galaxy_dribbble.gif)
+![](![image](https://user-images.githubusercontent.com/91619502/190733523-abd8fed3-802e-4a00-98b4-8fd241df42eb.png))
 # Hi there 👋
 
 <!--
